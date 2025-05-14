@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'O que é um mineral?',
+    'Um mineral é uma substância natural, inorgânica e sólida, com uma estrutura cristalina definida e uma composição química característica. Eles são formados por processos geológicos e são a base das rochas. Exemplos incluem quartzo, feldspato e mica.'
 )
 
 criaCartao(
