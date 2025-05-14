@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual a função do retículo endoplasmático rugoso?',
+    'A função do retículo endoplasmatico é a produção de proteínas'
 )
