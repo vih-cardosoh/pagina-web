@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Lingua inglesa',
+    'Quando é usado o ING?',
+    'O "ing" em inglês é usado em várias situações, principalmente para formar verbos contínuos (como o presente contínuo, passado contínuo, etc.), para formar substantivos (gerúndios) e também como adjetivo. Além disso, é usado após preposições e em algumas expressões específicas.'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Biologia',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
