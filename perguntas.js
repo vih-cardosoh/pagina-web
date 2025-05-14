@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Em que ano o livro "O Principe", de Maquiavel foi publicado?',
+    'O livro de Maquiavel foi publicado em 1535'
 )
 
 criaCartao(
